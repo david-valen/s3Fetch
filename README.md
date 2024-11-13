@@ -30,7 +30,7 @@ Command-line tool for exploring and downloading files from Amazon S3 buckets wit
 2. Run the tool. It will check and install missing dependencies as needed.
 
     ```bash
-    python s3Fetch.py
+    python3 s3Fetch.py
     ```
 
 ## 📝 How It Works
@@ -45,7 +45,7 @@ Command-line tool for exploring and downloading files from Amazon S3 buckets wit
 1. Run the tool:
 
     ```bash
-    python s3Fetch.py
+    python3 s3Fetch.py
     ```
 2. Enter the S3 bucket name when prompted.
 3. Apply a regex pattern to filter files (optional).
