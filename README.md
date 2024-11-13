@@ -23,8 +23,8 @@ Command-line tool for exploring and downloading files from Amazon S3 buckets wit
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/david-valen/S3Fetch.git
-    cd S3Fetch
+    git clone https://github.com/david-valen/s3Fetch.git
+    cd s3Fetch
     ```
 
 2. Run the tool. It will check and install missing dependencies as needed.
