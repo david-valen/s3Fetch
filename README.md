@@ -39,7 +39,7 @@ Command-line tool for exploring and downloading files from Amazon S3 buckets wit
 
 ## 📌 Example workflow
 
-![s3Fetch Demo](s3Fetch\assets\s3Fetch.gif)
+![s3Fetch Demo](https://github.com/david-valen/s3Fetch/blob/main/assets/s3Fetch.gif)
 
 ## 📋 Dependencies
 
